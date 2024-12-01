@@ -1,2 +1,6 @@
 images_data
+cropped_images
 celeb_recognition.keras
+*.caffemodel
+__pycache__
+.ipynb_checkpoints
